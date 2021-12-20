@@ -10,9 +10,11 @@
  </div>
   
   <div style="display: inline_block"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+    <img aling="center" alt="Luiz-net" height="90" width="72" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+     <img aling="center" alt="Luiz-C#" height="90" width="72" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+    <img aling="center" alt="Luiz-netcore" height="90" width="72" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+<img aling="center" alt="Luiz-netcore" height="90" width="72" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-    <i class="devicon-dot-net-plain colored"></i>
 
   </div>
 Here are some ideas to get you started:
