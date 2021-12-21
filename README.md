@@ -11,7 +11,9 @@
 <div style="display: inline_block"><br>
 <img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
  <img aling="center" alt="LuizC" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+
+
 <img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
   <img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -21,7 +23,8 @@ LINGUAGENNS DE PROGRAMAÇÃO E BANCO DE DADOS
 
   <div>
   <div style="display: inline_block"><br>
-    <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </div>
 
   IDE UTILIZADAS
