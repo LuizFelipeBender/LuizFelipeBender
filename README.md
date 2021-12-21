@@ -29,8 +29,9 @@ LINGUAGENNS DE PROGRAMAÇÃO E BANCO DE DADOS
    <div>
   <div style="display: inline_block"><br>
     <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
-    <img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-  </div>
+    <img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+   <img aling="center" alt="Luiz-net" height="100" width="200"img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </div>
     REDES SOCIAIS
 
   
