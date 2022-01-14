@@ -32,7 +32,7 @@ LINGUAGENNS DE PROGRAMAÇÃO E BANCO DE DADOS
    <div>
   <div style="display: inline_block"><br>
     <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
-    <img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img aling="center" alt="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    <img aling="center" alt="Luiz-net" height="100" width="200"img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </div>
     REDES SOCIAIS
