@@ -1,40 +1,22 @@
 ### Hi i'm Luiz Felipe Alves Bender 👋
-
-
-
-
-<div>
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeBender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeBender&layout=compact&langs_count=16&theme=tokyonight"/>    
- </div>
-  
+<div align="center">
+  <a href="https://github.com/LuizFelipeBender">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeBender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeBender&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
-<img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
- <img aling="center" alt="LuizC" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-
-
-<img aling="center" alt="Luiz-net" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
-  <img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img aling="center" alt="Luiz-net" height="100" width="90"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  </div>
-LINGUAGENNS DE PROGRAMAÇÃO E BANCO DE DADOS
-
-  <div>
-  <div style="display: inline_block"><br>
-    <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </div>
-
-  IDE UTILIZADAS
-
-   <div>
-  <div style="display: inline_block"><br>
-    <img aling="center" alt="Luiz-IDE" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
-    <img aling="center" alt="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" height="100" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-   <img aling="center" alt="Luiz-net" height="100" width="200"img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </div>
-    REDES SOCIAIS
-
+  <img align="center" alt="Bender-Js" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bender-React" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bender-HTML" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bender-CSS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bender-Csharp" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
   
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/luiz.bender.71" target="_blank"><img src="https://cdn.icon-icons.com/icons2/855/PNG/64/Instragram_social_media_corporate_logo_icon-icons.com_67684.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://cdn.icon-icons.com/icons2/699/PNG/64/outlook_icon-icons.com_61644.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
+
+</div>
