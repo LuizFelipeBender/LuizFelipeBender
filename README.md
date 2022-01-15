@@ -18,5 +18,5 @@
   <a href="https://www.instagram.com/luiz.bender.71" target="_blank"><img src="https://cdn.icon-icons.com/icons2/855/PNG/64/Instragram_social_media_corporate_logo_icon-icons.com_67684.png" target="_blank"></a>
   <a href = "mailto:LuizBender@outlook.com.br"><img src="https://cdn.icon-icons.com/icons2/699/PNG/64/outlook_icon-icons.com_61644.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
-
+<a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
 </div>
