@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeBender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeBender&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  ##
+  
   Linguagens utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Bender-Js" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +24,7 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
 </div>
 
-  
+##  
   Plataformas de estudos utilizadas
 <div> 
   <a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
