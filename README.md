@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeBender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeBender&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  Linguagens utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Bender-Js" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bender-React" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
