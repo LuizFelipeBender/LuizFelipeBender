@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
 
   
-  
+  Plataformas de estudos utilizadas
 
   <a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
 </div>
