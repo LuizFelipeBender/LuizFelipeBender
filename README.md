@@ -28,5 +28,4 @@
   <a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
 </div>
 
-  - name: Badges - Readme
-  uses: pemtajo/badge-readme@2.3.0
+
