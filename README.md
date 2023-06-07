@@ -25,11 +25,15 @@
 </div>
 ##
     Certificados 
-[<div> 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c3e793d-8d7b-422e-ad44-b720f8ad8a64" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-</div> ](https://www.credly.com/badges/1c3e793d-8d7b-422e-ad44-b720f8ad8a64/public_url)
-##  
+  
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1145026a-a837-4c93-89a6-39d1590fb894" data-share-badge-host="https://www.credly.com">  </div> 
+ <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
+  ##  
   Plataformas de estudos utilizadas
 <div> 
   <a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
 </div>
+
+  - name: Badges - Readme
+  uses: pemtajo/badge-readme@2.3.0
