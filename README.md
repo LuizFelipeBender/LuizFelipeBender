@@ -23,7 +23,11 @@
   <a href = "mailto:LuizBender@outlook.com.br"><img src="https://cdn.icon-icons.com/icons2/699/PNG/64/outlook_icon-icons.com_61644.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
 </div>
-
+##
+    Certificados 
+<div> 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c3e793d-8d7b-422e-ad44-b720f8ad8a64" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
+</div> 
 ##  
   Plataformas de estudos utilizadas
 <div> 
