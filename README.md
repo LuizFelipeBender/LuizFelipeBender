@@ -35,6 +35,13 @@
 
 <div>
   <a href = "https://www.credly.com/earner/earned/badge/81aa8090-85b5-48b1-a917-d899de6a6893"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Aws/aws-certified-cloud-practitioner.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/ccb5a4cc-ed8a-4fd3-820d-c4f88a3d723e"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Aws/aws-certified-solutions-architect-associate.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/1c3e793d-8d7b-422e-ad44-b720f8ad8a64"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Microsoft/microsoft-certified-azure-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/d03d6ab1-74ed-457e-8c1a-a32ad3fbdcf4"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Microsoft/microsoft-certified-security-compliance-and-identity-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/9d422113-84ca-44aa-a893-d6490f485d09"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Microsoft/microsoft-certified-azure-ai-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/1145026a-a837-4c93-89a6-39d1590fb894"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Microsoft/microsoft-certified-azure-data-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/2b7a900a-4988-4eb7-a160-0d54bb3f8a35"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/GFT/gft-multicloud-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/f4c8171c-39e9-453f-8f33-b22b3966fe45"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/GFT/apigee-developer.png" target="_blank"></a>
  </div>
  
 
