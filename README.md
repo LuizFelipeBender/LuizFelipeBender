@@ -33,13 +33,13 @@
  <a href="https://www.instagram.com/luiz.bender.71" target="_blank"><img src="https://cdn.icon-icons.com/icons2/855/PNG/64/Instragram_social_media_corporate_logo_icon-icons.com_67684.png" target="_blank"></a>
   </div> 
 
-<div><a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" target="_blank"></a>
-  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+<div>
   <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" target="_blank"></a>
-  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" target="_blank"></a>
-
-
-
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/1f6951b1-42c1-4cd5-88ff-3492553c21e3/image.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-220x220.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-220x220.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-220x220.png" target="_blank"></a>
 </div>
  
 
