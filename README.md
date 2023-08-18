@@ -34,9 +34,9 @@
   </div> 
 
 <div>
-  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" target="_blank"></a>
-  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/1f6951b1-42c1-4cd5-88ff-3492553c21e3/image.png" target="_blank"></a>
-  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/340x340/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/340x340/images/1f6951b1-42c1-4cd5-88ff-3492553c21e3/image.png" target="_blank"></a>
+  <a href = "mailto:LuizBender@outlook.com.br"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"target="_blank"></a>
   <a href = "https://www.credly.com/badges/9d422113-84ca-44aa-a893-d6490f485d09"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"target="_blank"></a>
 </div>
  
