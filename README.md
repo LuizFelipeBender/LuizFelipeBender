@@ -28,10 +28,7 @@
   <a href="https://web.dio.me/users/LuizBender" target="_blank"><img src="https://github.com/brunoemferreira/DIO-desafios/blob/main/Assets/logo.png"></a> 
 </div>
   
-  <div>
- <a href="https://www.linkedin.com/in/luiz-felipe-alves-bender-aa4b81210/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/64/sociallinkedin_member_70.png" target="_blank"></a> 
- <a href="https://www.instagram.com/luiz.bender.71" target="_blank"><img src="https://cdn.icon-icons.com/icons2/855/PNG/64/Instragram_social_media_corporate_logo_icon-icons.com_67684.png" target="_blank"></a>
-  </div> 
+Certificações oficiais de cloud
 
 <div>
   <a href = "https://www.credly.com/earner/earned/badge/81aa8090-85b5-48b1-a917-d899de6a6893"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Aws/aws-certified-cloud-practitioner.png" target="_blank"></a>
