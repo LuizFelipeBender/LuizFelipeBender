@@ -34,7 +34,7 @@
   </div> 
 
 <div>
-  <a href = "https://www.credly.com/earner/earned/badge/81aa8090-85b5-48b1-a917-d899de6a6893"><img src="  https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Aws/aws-certified-cloud-practitioner.png" target="_blank"></a>
+  <a href = "https://www.credly.com/earner/earned/badge/81aa8090-85b5-48b1-a917-d899de6a6893"><img src="https://github.com/LuizFelipeBender/LuizFelipeBender/blob/main/Badges/Aws/aws-certified-cloud-practitioner.png" target="_blank"></a>
  </div>
  
 
